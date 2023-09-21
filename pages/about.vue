@@ -1,6 +1,4 @@
 <template>
-    <div>
-      <h1>About page</h1>
-      <NuxtLink to="/">Home page</NuxtLink>
-    </div>
-  </template>
+  <NuxtLink to="/page3">click to nagviagate to next page</NuxtLink>
+  <div><img src="https://swiperjs.com/demos/images/nature-1.jpg" /></div>
+</template>
